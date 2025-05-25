@@ -1,7 +1,7 @@
 # 🚀 PocketOption API
 
-[![GitHub](https://img.shields.io/badge/GitHub-AdminhuDev-blue?style=flat-square&logo=github)](https://github.com/Mastaaa1987)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://Mastaaa1987.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-MrAlpert-blue?style=flat-square&logo=github)](https://github.com/MrAlpert)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://MrALpert.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > The Python API is robust and modern for integration with PocketOption, offering a simple and efficient interface for automatic operation.
