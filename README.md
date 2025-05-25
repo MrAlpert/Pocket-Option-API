@@ -114,7 +114,7 @@ To get the SSID required for authentication:
 5. Find the authentication message that contains the SSID
 6. Copy the full SSID in the format shown in the example
 
-How To get SSID.docx [HERE](https://github.com/Mastaaa1987/PocketOptionAPI/raw/refs/heads/master/How%20to%20get%20SSID.docx)
+How To get SSID.docx [HERE](https://github.com/MrAlpert/PocketOptionAPI/raw/refs/heads/master/How%20to%20get%20SSID.docx)
 
 ## 🤝 Contributing
 
@@ -146,12 +146,12 @@ This project is an unofficial implementation and has no connection with PocketOp
 
 ## 📞 Support
 
-- 📧 Email: [sebastianspaaa@gmail.com](mailto:sebastianspaaa@gmail.com)
-- 💬 Telegram: [@devAdminhu](https://t.me/mastaaa667)
-- 🌐 Website: [mastaaa1987.site](https://mastaaa1987.github.io)
+- 💻 Telegram Channel: [@Mr_Alpert_TrustBot](https://t.me/Mr_Alpert_TrustBot)
+- 💬 Telegram: [@Mr_Alpert](https://t.me/Mr_Alpert)
+- 🎬 YouTube: [@TrustBot.Mr.Alpert](https://www.youtube.com/@TrustBot.Mr.Alpert)
 
 ---
 
 <p align="center">
-  Powered ❤️ by <a href="https://github.com/Mastaaa1987">Mastaaa1987</a>
+  Powered by <a href="https://github.com/MrAlpert">Mr.Alpert</a>
 </p> 
